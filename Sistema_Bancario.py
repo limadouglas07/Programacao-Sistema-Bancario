@@ -11,7 +11,7 @@ saldo = 0
 limite = 500
 extrato = ""
 numero_saques = 0
-LIMITE_SAQUES = 3  # Maiúscula constante.
+LIMITE_SAQUES = 3  # Maiúscula constante..
 
 while True:
 
